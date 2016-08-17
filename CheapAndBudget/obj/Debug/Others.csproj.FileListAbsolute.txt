@@ -1,0 +1,13 @@
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\chromedriver.exe
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\chromedriver-license.txt
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\CheapAndBudget.dll
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\CheapAndBudget.pdb
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\nunit.framework.dll
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\WebDriver.dll
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\WebDriver.Support.dll
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\nunit.framework.xml
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\WebDriver.xml
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\bin\Debug\WebDriver.Support.xml
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\obj\Debug\Others.csprojResolveAssemblyReference.cache
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\obj\Debug\CheapAndBudget.dll
+\\netserveros-03\skatta\Documenten\Visual Studio 2015\Projects\AddItemToShoppingCart\CheapAndBudget\obj\Debug\CheapAndBudget.pdb
